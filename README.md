@@ -32,5 +32,6 @@ It has the features of adding a new tasks, checking off a task, as well as to a 
 - [Official Site](https://flutter.dev/)
 - [Introduction](https://www.youtube.com/watch?v=S3PkT_REi1c&list=PLGykX21r34XAKta1fDBC7vcdEmew2VqMi)
 - [Installation](https://www.youtube.com/watch?v=ZN5-54etZec&list=PLGykX21r34XAKta1fDBC7vcdEmew2VqMi&index=2)
+- [Design I](https://www.youtube.com/watch?v=PJVBIaWN9M4)
 
 
